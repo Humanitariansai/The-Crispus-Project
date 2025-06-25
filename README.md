@@ -43,7 +43,6 @@ We believe that:
 ## Get Involved
 
 ### For Students
-- Must be currently enrolled in high school or undergraduate programs
 - Passionate about learning and building tools to enhance education
 - Basic programming knowledge recommended but not required
 - Apply through our website with a brief statement about your learning goals
@@ -51,7 +50,6 @@ We believe that:
 ### For Mentors
 - Recent Master's graduates in CS, engineering, or related fields (within last 3 years)
 - Interest in education, AI, and mentorship
-- Commitment of 5-10 hours weekly for one semester
 - Apply with resume and mentorship statement
 
 ## Our Sandbox Environment
